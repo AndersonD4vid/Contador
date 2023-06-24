@@ -1,6 +1,6 @@
 # Criando um contador e escrever as condições que alteram a cor com base em números positivos ou negativos que são exibidos, e também manipulamos o DOM
 
-# Conceitos importantes tratados nesse tutorial:
+# Conceitos importantes tratados nesse projeto:
 
 - document.querySelectorAll()forEach()
 - addEventListener()
